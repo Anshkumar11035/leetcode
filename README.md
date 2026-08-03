@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Anshkumar11035/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0179-largest-number](https://github.com/Anshkumar11035/leetcode/tree/master/0179-largest-number) |
+| [1406-stone-game-iii](https://github.com/Anshkumar11035/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshkumar11035/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anshkumar11035/leetcode/tree/master/0013-roman-to-integer) |
+| [1406-stone-game-iii](https://github.com/Anshkumar11035/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshkumar11035/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Anshkumar11035/leetcode/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Anshkumar11035/leetcode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Anshkumar11035/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
