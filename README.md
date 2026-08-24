@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Anshkumar11035/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Anshkumar11035/leetcode/tree/master/0013-roman-to-integer) |
 | [1406-stone-game-iii](https://github.com/Anshkumar11035/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshkumar11035/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
