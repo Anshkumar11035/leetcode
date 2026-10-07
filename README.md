@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anshkumar11035/leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshkumar11035/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Anshkumar11035/leetcode/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/Anshkumar11035/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshkumar11035/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshkumar11035/leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anshkumar11035/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Anshkumar11035/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Anshkumar11035/leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
